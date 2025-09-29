@@ -1,2 +1,2 @@
-# tea-earlgrey-hot
+# tea.earlgrey.hot
 A small homage to Captain Picard.
